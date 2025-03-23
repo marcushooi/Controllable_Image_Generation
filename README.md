@@ -1,4 +1,7 @@
-# Controllable Image Generation
+# CCDS24-0069: Controllable Image Generation using Diffusion Models
+
+
+
 Due to size restriction i am unable to upload my training data set here.
 
 To download the training dataset: 
